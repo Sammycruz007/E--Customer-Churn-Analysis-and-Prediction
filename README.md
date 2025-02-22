@@ -57,9 +57,16 @@ Statistical Analysis:
 
 ![Evaluation Metrics](https://github.com/user-attachments/assets/b9ee516b-e752-4298-b329-affcb33441c4)
 
+### Confusion Metrix
+![Confusion Metric](https://github.com/user-attachments/assets/528fa62e-0f5b-425a-879d-ac5c54f1a0dc)
+
+
 
 ### 6. Feature Importance Analysis
 The feature importance analysis confirmed the key drivers of churn, ranked as follows:
+
+
+![Feature_importance](https://github.com/user-attachments/assets/cbd0312f-df83-47cb-88ce-72e8d9012658)
 
 - Tenure
 - Order Count
