@@ -49,6 +49,15 @@ Statistical Analysis:
 - Model Development: Built a predictive model using machine learning algorithms.
 - Hyper-Parameter Tuning: Optimized model parameters to achieve the best performance.
 - Model Evaluation: Assessed the model using standard evaluation metrics (accuracy, precision, recall, AUC) to ensure robust performance in predicting churn.
+  Evaluation for the Best Model:
+### Precision: 0.9297
+###  Recall: 0.8655
+### F1-Score: 0.8964
+###  Accuracy Score: 0.9674
+
+![Evaluation Metrics](https://github.com/user-attachments/assets/b9ee516b-e752-4298-b329-affcb33441c4)
+
+
 ### 6. Feature Importance Analysis
 The feature importance analysis confirmed the key drivers of churn, ranked as follows:
 
