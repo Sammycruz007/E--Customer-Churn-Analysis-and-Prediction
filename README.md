@@ -66,7 +66,7 @@ Statistical Analysis:
 The feature importance analysis confirmed the key drivers of churn, ranked as follows:
 
 
-![Feature_importance](https://github.com/user-attachments/assets/ab380ed8-7f88-47a0-be8a-e292bfc3a459)
+                  ![Feature_importance](https://github.com/user-attachments/assets/ab380ed8-7f88-47a0-be8a-e292bfc3a459)
 
 
 - Tenure
